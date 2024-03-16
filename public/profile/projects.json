@@ -6,7 +6,7 @@
             "bodyText": "This project is inspired by the world-famous Wolfenstein 3D game, which was the first FPS ever. It will enable you to explore ray-casting. My goal was to make a dynamic view inside a maze, in which I had to find my way.",
             "links": [
                 {
-                    "text": "GitHub",
+                    "text": "In Progress",
                     "href": ""
                 }
             ],
@@ -24,7 +24,7 @@
             "links": [
                 {
                     "text": "GitHub",
-                    "href": ""
+                    "href": "https://github.com/iganiev/CPP_Modules"
                 }
             ],
             "tags" : [
@@ -60,7 +60,7 @@
             "links": [
                 {
                     "text": "GitHub",
-                    "href": ""
+                    "href": "https://github.com/iganiev/minishell42"
                 }
             ],
             "tags" : [
