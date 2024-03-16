@@ -1,0 +1,126 @@
+{
+    "projects" : [
+        {
+            "image" : "images/projects/cub3d.jpg",
+            "title": "cub3d",
+            "bodyText": "This project is inspired by the world-famous Wolfenstein 3D game, which was the first FPS ever. It will enable you to explore ray-casting. My goal was to make a dynamic view inside a maze, in which I had to find my way.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": ""
+                }
+            ],
+            "tags" : [
+                "C",
+                "Raycasting",
+                "MLX",
+                "Rendering in 3D",
+                "Memory Managment"
+            ]
+        },
+        {
+            "title": "C++ Modules",
+            "bodyText": "C++ modules offer a structured approach to mastering the C++ programming language. These modules cover essential topics such as syntax, data structures, object-oriented programming, and algorithm design.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": ""
+                }
+            ],
+            "tags" : [
+                "C++",
+                "OOP",
+                "Classes",
+                "Polymorphism",
+                "Operator overloading"
+            ]
+        },
+        {
+            "image" : "images/projects/philopic.png",
+            "title": "Philosophers",
+            "bodyText": "This project introduces the fundamentals of process threading. I explored thread creation and delve into the world of mutexes, broadening your knowledge of concurrent programming concepts.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/iganiev/Philosophers42"
+                }
+            ],
+            "tags" : [
+                "C",
+                "Multithreading",
+                "Data Structures",
+                "Mutexes & Therads",
+                "Memory Managment"
+            ]
+        },
+        {
+            "image" : "images/projects/minishellpic.jpg",
+            "title": "MINISHELL",
+            "bodyText": "This project is about creating a simple shell. Yes, my own little bash. I learned a lot about processes and file descriptors.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": ""
+                }
+            ],
+            "tags" : [
+                "C",
+                "Multiple Processes",
+                "Data Structures",
+                "Linked List",
+                "File Descriptors",
+                "Memory Managment"
+            ]
+        },
+        {
+            "title": "push_swap",
+            "bodyText": "This project requers to sort data on a stack, with a limited set of instructions, using the lowest possible number of actions. To succeed you’ll have to manipulate various types of algorithms and choose the most appropriate solution (out of many) for an optimized data sorting.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/iganiev/push_swap42"
+                }
+            ],
+            "tags" : [
+                "C",
+                "Sorting Algorithm",
+                "Data Structures",
+                "Linked List",
+                "Memory Managment"
+            ]
+        },
+        {
+            "image" : "images/projects/fddmap.png",
+            "title": "FDF",
+            "bodyText": "This project is about representing a landscape as a 3D object in which all surfaces are outlined in lines. \n FDF involves fundamental concepts such as parsing files, basic graphics programming, and handling user inputs.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/iganiev/FDF42"
+                }
+            ],
+            "tags" : [
+                "C",
+                "Data Structures",
+                "MLX",
+                "Rendering in 3D",
+                "Memory Managment"
+            ]
+        },
+        {
+            "title": "LIBFT",
+            "bodyText": "Libft is a key assignment at 42 coding school it requires to build a library of basic functions needed for other projects.\n Libft involves creating tools for tasks like working with text, managing memory, and handling lists.\n It teaches to write clear, efficient, and reliable code.\n This project reflects my skills in C programming and my knack for solving problems effectively.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/iganiev/LIbft"
+                }
+            ],
+            "tags" : [
+                "C",
+                "Makefile",
+                "Memory Managment"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "social": [
+        {
+            "network" : "linkedin",
+            "href": "https://www.linkedin.com/in/ibrahim-ganiev-889852168/"
+        },
+        {
+            "network" : "github",
+            "href": "https://github.com/iganiev"
+        },
+        {
+            "network" : "email",
+            "href": "mailto:iganiev@student.42abudhabi.ae"
+        }
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "experiences": [
+        {
+            "title": "Student",
+            "subtitle": "42 Abu Dhabi",
+            "workType": "Part-time",
+            "workDescription": [
+                "Created my first library on C",
+                "Developed own shell on C",
+                "Worked with virtual machine",
+                "Made 3D game using ray-casting"
+            ],
+            "dateText": "01/2023 – Present"
+        },
+        {
+            "title": "Business Manager",
+            "subtitle": "Fajr Al Buhairah Gen Tr LLC",
+            "workType": "Full-time",
+            "workDescription": [
+                "I have been diligent in managing accounts",
+                "Registering new imports in the DM System",
+                "Maintaining up-to-date customer mutual settlement statements",
+                "I have effectively handled payments, ensuring they are made and received promptly"
+            ],
+            "dateText": "04/2021 – Present"
+        }, 
+        {
+            "title": "Chif Technician",
+            "subtitle": "Easy Pay LLC",
+            "workType": "Full-time",
+            "workDescription": [
+                "Setup payment machines",
+                "Install Software",
+                "Maintan Server",
+                "Repair and prepare spare parts"
+            ],
+            "dateText": "01/2019 – 03/2021"
+        },
+        {
+            "title": "Game Developer",
+            "subtitle": "",
+            "workType": "Frelance",
+            "workDescription": [
+                "Made few simple games on Unity"
+            ],
+            "dateText": "01/2017 – 01/2019"
+        }
+    ]
+}

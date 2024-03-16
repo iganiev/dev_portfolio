@@ -1,0 +1,14 @@
+{
+    "education":[
+        {
+            "title": "JAN 2023 - Present",
+            "cardTitle": "Computer Science",
+            "cardSubtitle":"School 42, Abu Dhabi"
+        },
+        {
+            "title": " SEP 2017 - FEB 2022",
+            "cardTitle": "University",
+            "cardSubtitle":"Moscow State Technical University of Civil Aviation, Moscow"
+        }
+    ]
+}
